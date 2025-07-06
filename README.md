@@ -2,13 +2,12 @@ Hi, I'm Daniel O'Hear,
 I use he/him/his pronouns :)
 
 As a developer, I'm interested in: 
-- Embedded systems  
+- Programming Languages 
+- Operating Systems
+- Embedded systems/Low-level systems programming  
 - Backend development  
-- Low-level systems programming  
-- Internet of things  
 - Full-stack development  
-- Data Science  
-- Machine Learning  
+- Data Science/Machine Learning  
 
 As a person, outside of programming, I'm interested in: 
 - Film (making and watching)  
