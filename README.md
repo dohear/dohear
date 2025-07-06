@@ -9,7 +9,7 @@ As a developer, I'm interested in:
 - Full-stack development  
 - Data Science/Machine Learning  
 
-As a person, outside of programming, I'm interested in: 
+As a person outside of programming, I'm interested in: 
 - Film (making and watching)  
 - Music (I love all music!)  
 - Classic Literature  
