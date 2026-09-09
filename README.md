@@ -1,6 +1,6 @@
 Hi, I'm Daniel O'Hear, 
 I use he/him/his pronouns :)
-I recently graduated from Marquette with a CS degree (May '25)
+I recently graduated from Marquette with a CS degree 
 Open to software development opportunities in the Milwaukee/Chicago/Madison area.
 
 As a developer, I'm interested in: 
